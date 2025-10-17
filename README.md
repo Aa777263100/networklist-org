@@ -1,4 +1,4 @@
-b# Description
+f1000b# Description
 This is the repo for TokenPocket to add public chains according to the community requirements. Once the PR is merged, the chain will be included on TokenPocket's Easy Add feature. You can also visit the entrance of the custom network in **https://chainlist.tokenpocket.pro/**. For adding more network data, please read the following tutorials.
 
 ## Listing and donation standard
